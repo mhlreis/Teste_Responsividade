@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/../img/smiley.png);
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background-image: url(../img/sangry.png);
+        display: block;
+        margin: 0 auto;
+        width: auto;
+    }
+}

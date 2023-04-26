@@ -1,5 +1,6 @@
 body {
     background-image: url(../img/../img/smiley.png);
+    background-repeat: no-repeat;
     display: block;
     margin: 0 auto;
     width: auto;
